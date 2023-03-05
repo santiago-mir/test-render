@@ -11,7 +11,7 @@
   "scripts": {
     "dev":"",
     "test":"ava",
-    "build":"tsc index.ts",
+    "build":"tsc",
     "start":"node index.js"
   }
 }
